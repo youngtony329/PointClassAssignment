@@ -20,7 +20,7 @@ public class Point {
 
     }
 
-    public void FlipHoritzontal() {
+    public void FlipHorizontal() {
 
     }
 

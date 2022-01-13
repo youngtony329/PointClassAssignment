@@ -9,6 +9,7 @@ public class Main {
         //Create another point
         Point b = new Point(-2, 7);
 
+
         double x_coordinate = a.getX();
         double y_coordinate = a.getY();
 
@@ -17,7 +18,7 @@ public class Main {
         System.out.println("Point b's new x-coordinate is " + b.getX());
         System.out.println("Point b's new y-coordinate is " + b.getY());
 
-        b.FlipHoritzontal();
+        b.FlipHorizontal();
 
         System.out.println("Point b's new x-coordinate is " + b.getX());
         System.out.println("Point b's new y-coordinate is " + b.getY());
