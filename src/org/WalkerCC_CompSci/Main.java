@@ -22,6 +22,11 @@ public class Main {
         System.out.println("Point b's new x-coordinate is " + b.getX());
         System.out.println("Point b's new y-coordinate is " + b.getY());
 
+        a.Translate(2, -1);
+
+        System.out.println("Point a's new x-coordinate is " + a.getX());
+        System.out.println("Point a's new y-coordinate is " + a.getY());
+
 
 
     }

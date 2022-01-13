@@ -9,11 +9,11 @@ public class Point {
     }
 
     public double getX() {
-
+        return 0;
     }
 
     public double getY() {
-
+        return 0;
     }
 
     public void FlipVertical() {
@@ -21,6 +21,11 @@ public class Point {
     }
 
     public void FlipHoritzontal() {
+
+    }
+
+    public void Translate(double xChange, double yChange){
+
 
     }
 }
