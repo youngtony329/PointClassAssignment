@@ -1,7 +1,7 @@
 package org.WalkerCC_CompSci;
 
 public class Main {
-
+//w
     public static void main(String[] args) {
 
         //Create a point
